@@ -20,9 +20,8 @@ Proyecto React + Vite para buscar usuarios en una base de datos local usando una
 
 La app estará disponible en `http://localhost:5173` y la API en `http://localhost:8000/usuarios`.
 
-## Autor
 
-Tatan022
+
 =======
 # Buscador-Interactivo
 >>>>>>> 0b3ff8d3d4db6f49643374d3547d898ca587fcce
