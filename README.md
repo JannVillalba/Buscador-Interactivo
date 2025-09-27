@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Buscador-Interactivo
 
 Proyecto React + Vite para buscar usuarios en una base de datos local usando una API simulada con JSON Server.
